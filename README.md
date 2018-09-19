@@ -21,6 +21,6 @@ Step 7: Dependencies
 
 1. Write a function that takes a list, and using a map function multiples every number in this list by 3 and returns the new list. Call your function to test that it works. 
 
-2. Challenge: Write a function that takes a list of strings, and using a reduce function concatenates them into one string and returns it.
+2. *Challenge* Write a function that takes a list of strings, and using a reduce function concatenates them into one string and returns it.
 
 3. Submit the google form with a link to your repository.
