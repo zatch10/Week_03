@@ -1,0 +1,11 @@
+{
+  "name": "week_03",
+  "author": "Aria <arshiam2828@gmail.com>",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
